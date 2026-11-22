@@ -1,12 +1,14 @@
 # CommitWise – GitHub Activity & Repository Intelligence Dashboard
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-18.3-61DAFB.svg?logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Frontend](https://img.shields.io/badge/Live%20Demo-commitwise.vercel.app-292D2C?style=for-the-badge&logo=vercel&logoColor=white)](https://commitwise.vercel.app/)
+[![API Status](https://img.shields.io/badge/Backend%20API-Render-D97745?style=for-the-badge&logo=render&logoColor=white)](https://commitwise-xnht.onrender.com/)
+[![Swagger Docs](https://img.shields.io/badge/API%20Docs-Swagger-65A99B?style=for-the-badge&logo=swagger&logoColor=white)](https://commitwise-xnht.onrender.com/docs)
 
-CommitWise is a full-stack developer analytics platform that transforms raw GitHub repositories, commits, and public events into actionable developer intelligence, repository health audits, language breakdowns, and comparative benchmarks.
+CommitWise is a production full-stack developer analytics platform that transforms raw GitHub repositories, commits, and public events into actionable developer intelligence, repository health audits, language breakdowns, and comparative benchmarks.
+
+🌐 **Live Website:** [https://commitwise.vercel.app/](https://commitwise.vercel.app/)  
+⚡ **Live Backend API:** [https://commitwise-xnht.onrender.com/](https://commitwise-xnht.onrender.com/)  
+📖 **Interactive Swagger Documentation:** [https://commitwise-xnht.onrender.com/docs](https://commitwise-xnht.onrender.com/docs)
 
 ---
 
